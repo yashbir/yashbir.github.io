@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/yashbir/yashbir.github.io#readme",
   "dependencies": {
-    "next": "^9.5.3",
+    "next": "^13.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-feather": "^2.0.8"
